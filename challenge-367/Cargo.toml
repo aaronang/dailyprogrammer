@@ -1,0 +1,6 @@
+[package]
+name = "challenge-367"
+version = "0.1.0"
+authors = ["Aaron Ang <awz.ang@gmail.com>"]
+
+[dependencies]
